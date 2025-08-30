@@ -10,4 +10,4 @@ last-para-color : `red`
 
 list-items-background : `white`, `stalegray`, `pink`
 
-![output](https://storage.googleapis.com/acciojob-open-file-collections/pseudo-classes.png)
+![output](https://github.com/acciojob/pseudo-classes-nithinkp1/releases)
