@@ -12,6 +12,10 @@ p:first-child{
 	background-color:black;
 }
 
+p:nth-child(2){
+	
+}
+
 p:last-child{
 	color:red;
 }
@@ -36,6 +40,6 @@ ul li:nth-child(odd) {
   background-color: white;
 }
 
-ul li:nth-child(3){
+ul li:nth-child(3), ul li:nth-child(4),ul li:last-child{
 	background-color:pink
 }
